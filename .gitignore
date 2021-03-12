@@ -259,3 +259,8 @@ paket-files/
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
 *.pyc
+
+/Laboratory_Work_1/targetver.h
+/Laboratory_Work_1/stdafx.h
+/Laboratory_Work_1/*.vcxproj
+/Laboratory_Work_1/stdafx.cpp
